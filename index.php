@@ -6,6 +6,7 @@
     <title>Login and Register System</title>
 </head>
 <body>
-    
+   <!-- message  -->
+    <p>message</p>
 </body>
 </html>
