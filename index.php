@@ -6,6 +6,14 @@
 </head>
 <body>
    <!-- message  -->
-    <p>message</p>
+    <p class="msg">Successfully Registered!</p>
+
+   <!-- form -->
+    <div class="forms">
+        <form action="" class="login">
+            <h2>Login</h2>
+            
+        </form>
+    </div>
 </body>
 </html>
