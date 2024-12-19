@@ -14,7 +14,10 @@
             <h2>Login</h2>
             <input type="text" name="email" placeholder="Entr your email...">
             <input type="password" name="password" placeholder="Entr your password...">
-            
+            <div class="rem">
+                <input type="ckeckbox" name="re-check" id="re-check">
+                <label for="re-check">remember me</label>
+            </div>
         </form>
     </div>
 </body>
