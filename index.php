@@ -18,6 +18,7 @@
                 <input type="ckeckbox" name="re-check" id="re-check">
                 <label for="re-check">remember me</label>
             </div>
+            <button type="submit">Login</button>
         </form>
     </div>
 </body>
