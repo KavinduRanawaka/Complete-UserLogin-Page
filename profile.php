@@ -7,6 +7,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <!-- profile -->
+ <div class="profile">
+    <h2>Welcome - <span>Profile Nmae</span></h2>
+    <div class="data">Full Name</div>
+    <div class="data">Email Address</div>
+    <div class="data">Mobile Number</div>
+    <a href="#">Logout</a>
+ </div>
 </body>
 </html>
