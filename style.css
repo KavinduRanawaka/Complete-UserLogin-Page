@@ -28,3 +28,15 @@ input,button{
     justify-content: center;
     align-items: flex-start;
 }
+.login,
+.register{
+    max-width: 330px;
+    width: 100%;
+    background-color: #7676dd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+    margin: 0 10px;
+}
