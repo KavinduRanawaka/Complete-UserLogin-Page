@@ -85,6 +85,24 @@ button:hover{
     text-align: center;
 }
 
+/* profile page */
+.profile{
+    min-width: 200px;
+    padding: 20px;
+    background-color: #7676dd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.profile .data{
+    min-width: 150px;
+    text-align: center;
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    margin: 10px 0;
+}
 @media(max-width:800px){
     .forms{
         flex-direction: column;
