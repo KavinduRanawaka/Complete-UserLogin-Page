@@ -103,6 +103,13 @@ button:hover{
     padding: 10px;
     margin: 10px 0;
 }
+.profile a{
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    border-color: #000;
+    color: #fff;
+}
 @media(max-width:800px){
     .forms{
         flex-direction: column;
