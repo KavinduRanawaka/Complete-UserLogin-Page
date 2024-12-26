@@ -24,7 +24,7 @@
         </form>
 
         <!-- Register form -->
-        <form action="" class="register">
+        <form action="./includes/register.inc.php" method="post" class="register">
             <h2>Register</h2>
             <input type="text" name="fname" placeholder="Entr your first Name...">
             <input type="text" name="lname" placeholder="Entr your Last Name...">
