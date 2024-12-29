@@ -113,7 +113,7 @@
                 $value = true;
             }
         }
-        // Close the statement
+        // Close the statements
         mysqli_stmt_close($stmt);
 
         return $value;
