@@ -55,7 +55,7 @@
                 // Verify password
                 $isPassOk = password_verify($pass, $passHashed);
                 if($isPassOk){
-                    // Setup session variables
+                    
                     session_start();
                     $_SESSION["user_email"] = $row["email"];
                     $_SESSION["user_fname"] = $row["fname"];
